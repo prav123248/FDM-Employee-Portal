@@ -17,7 +17,7 @@ The main home page for all users features a carousel of FDM's core values and us
     - HTML/CSS/Javascript
     - React JS including components from Primereact
     - React Bootstrap
-    - Mongo DB
+    - MongoDB
     
 ### Functionalities implemented :
     - Login system with a user hierarchy (employee, support, manager, admin)
