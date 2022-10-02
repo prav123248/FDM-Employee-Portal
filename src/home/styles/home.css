@@ -1,0 +1,18 @@
+
+.banner {
+    margin-left: -200px;
+    margin-right: -20px;
+}
+
+.marginAlign {
+    margin-left: -200px;
+    margin-right: -20px;
+}
+
+.twitterTimeline {
+    width: 20em;
+    max-height: 25.5em;
+    overflow-y:auto;
+
+}
+

@@ -1,0 +1,45 @@
+
+.p-menu {
+  background-color: #1b1d2e !important;
+}
+
+.p-menu-list {
+  font-size: 12pt !important;
+}
+
+.p-menuitem-icon{
+  color:#1DADED !important;
+    background-color: #202025 !important;
+}
+
+body .p-sidebar .p-sidebar-content {
+    padding: 0;
+}
+body .p-sidebar .p-sidebar-header {
+    display:none;
+}
+
+body .p-sidebar {
+    border: 0;
+}
+
+.p-menuitem-text{
+  color:#FFFFFF !important;
+}
+
+.p-menu .p-menuitem .p-menuitem-link:hover{
+  background-color: #131316;
+}
+
+.p-menuitem.logout span{
+  color: rgb(255,85,106) !important;
+}
+
+body .p-sidebar {
+  background-color: #1b1d2e !important;
+  border: 0px !important;
+}
+
+body .p-menu {
+  border: 0px !important;
+}

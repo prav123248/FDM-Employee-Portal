@@ -1,0 +1,23 @@
+.formBody {
+    border: solid 2px black;
+}
+
+h1 {
+    margin-top: 3rem;
+}
+
+.supportForm {
+border: solid 2px black;
+padding: 2rem;
+width: 50vw;
+margin: auto;
+margin-top: 4rem;
+}
+
+.btn-success {
+    position: absolute;
+    margin-left: 1rem;
+}
+
+
+
